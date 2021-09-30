@@ -1,6 +1,6 @@
 ---
 blocks:
-  - tagline: Taggy linez
+  - tagline: Tina turn her
     headline: Welcome to the Tina Starter.
     text: >
       This project is set up to show you the basics of working with Tina. You're
