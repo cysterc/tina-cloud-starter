@@ -10,7 +10,7 @@ blocks:
       in `.tina/schema.ts`.
     actions:
       - label: Get Started
-        type: button
+        type: link
         icon: true
         link: /posts
       - label: Read Blog
